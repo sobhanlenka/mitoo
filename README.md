@@ -1,3 +1,0 @@
-# Mitoo 
-
-## Documentation coming soon
